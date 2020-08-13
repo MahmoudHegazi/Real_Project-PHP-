@@ -13,6 +13,14 @@ use PHP and MYSQL, to create system can store devices, employee, suppliers, main
 
 last table users and all needed for secure login
 
-
-
 https://itsourcecode.com/free-projects/php-project/secure-login-page-using-phpmysql/
+
+configure computer to work as server, or host my app localy for the company
+http://na.support.keysight.com/materials/help/85071webhelp/Configure_PC_to_Analyzer_using_Crossover_LAN.htm
+
+On the PC, click Start, then Control Panel, then Network Connections.
+Click Local Area Connection.
+In the dialog box,, click on Properties.
+Select Internet Protocol(TCP/IP) then click Properties.
+Select Use the following IP address.
+Enter an IP address and Subnet mask. For example:
