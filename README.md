@@ -4,3 +4,4 @@ use PHP and MYSQL, to create system can store devices, employee, suppliers, main
 
 #database
 <img src="Untitled.png">
+<img src="num2">
