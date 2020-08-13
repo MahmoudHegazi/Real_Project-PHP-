@@ -10,3 +10,9 @@ use PHP and MYSQL, to create system can store devices, employee, suppliers, main
 1more last table 
 
 # device_history
+
+last table users and all needed for secure login
+
+
+
+https://itsourcecode.com/free-projects/php-project/secure-login-page-using-phpmysql/
