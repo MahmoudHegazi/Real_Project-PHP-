@@ -5,6 +5,7 @@ use PHP and MYSQL, to create system can store devices, employee, suppliers, main
 #database
 <img src="Untitled.png">
 <img src="nm2.png">
+<img src="num3.png">
 
 1more last table 
 
