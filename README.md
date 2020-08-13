@@ -18,6 +18,9 @@ https://itsourcecode.com/free-projects/php-project/secure-login-page-using-phpmy
 configure computer to work as server, or host my app localy for the company
 http://na.support.keysight.com/materials/help/85071webhelp/Configure_PC_to_Analyzer_using_Crossover_LAN.htm
 
+### Great_script
+https://code.tutsplus.com/articles/20-useful-php-scripts-available-on-codecanyon--cms-25584
+
 On the PC, click Start, then Control Panel, then Network Connections.
 Click Local Area Connection.
 In the dialog box,, click on Properties.
