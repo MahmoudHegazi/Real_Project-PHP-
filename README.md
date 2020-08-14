@@ -1,5 +1,9 @@
 # Real_Project-PHP-
 
+```
+SELECT * FROM `ticket` WHERE 1
+```
+
 Localhost APP for my Company EEC Group
 
 # This gonna be number 1 php store_system wrriten 
