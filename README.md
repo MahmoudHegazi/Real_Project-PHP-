@@ -12,7 +12,7 @@ second time use planning becuase it worth  they said(30days) I will finish it in
 
 use PHP and MYSQL, to create system can store devices, employee, suppliers, maintenance, and maintenance updates, with relationa database,
 
-<img src="scheme.PNG">
+<img src="mydb.PNG">
 
 #database first was only 3 tables
 <img src="Untitled.png">
