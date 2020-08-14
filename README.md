@@ -13,7 +13,9 @@ second time use planning becuase it worth  they said(30days) I will finish it in
 use PHP and MYSQL, to create system can store devices, employee, suppliers, maintenance, and maintenance updates, with relationa database, senor quit today and i have to be senior php and mysql with 13 days, lets try build awesome app system no one made better than it with 13days php exp
 
 
-#database
+<img src="scheme.png">
+
+#database first was only 3 tables
 <img src="Untitled.png">
 <img src="nm2.png">
 <img src="num3.png">
