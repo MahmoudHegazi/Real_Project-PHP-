@@ -10,8 +10,7 @@ Localhost APP for my Company EEC Group
 second time use planning becuase it worth  they said(30days) I will finish it in less than 7days with ultra secure  
 
 
-use PHP and MYSQL, to create system can store devices, employee, suppliers, maintenance, and maintenance updates, with relationa database, senor quit today and i have to be senior php and mysql with 13 days, lets try build awesome app system no one made better than it with 13days php exp
-
+use PHP and MYSQL, to create system can store devices, employee, suppliers, maintenance, and maintenance updates, with relationa database,
 
 <img src="scheme.PNG">
 
@@ -40,3 +39,7 @@ In the dialog box,, click on Properties.
 Select Internet Protocol(TCP/IP) then click Properties.
 Select Use the following IP address.
 Enter an IP address and Subnet mask. For example:
+
+
+ senor quit today and i have to be senior php and mysql with 13 days, lets try build awesome app system no one made better than it with 13days php exp
+
